@@ -11,6 +11,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.0.2)
 
 **References:**
+- https://firebase.google.com/docs/auth
 - https://firebase.google.com/support/release-notes/android#20170629
 - https://developers.google.com/android/guides/releases#june_2017_-_version_110
 
