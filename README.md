@@ -1,4 +1,4 @@
-# android-google-firebase-auth
+## android-google-firebase-auth
 
 Eclipse library project based on:<br/>
 https://maven.google.com/com/google/firebase/firebase-auth/11.8.0/firebase-auth-11.8.0.aar
